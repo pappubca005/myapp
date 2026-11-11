@@ -1,0 +1,18 @@
+Senior AI & Software Engineering professional with 14+ years delivering enterprise AI solutions. Specialized in conversational AI, Azure OpenAI, Azure AI Foundry, and intelligent automation. Proven track record: 70-80% chatbot automation efficiency, 80% reduction in manual reporting effort through AI-driven solutions.
+
+EXPERTISE:
+• Enterprise Chatbot Architecture & Generative AI Workflows
+• Azure AI Services (OpenAI, AI Foundry, Language Studio, CLU)
+• Python, Django, REST API Integration & Microservices
+• Cloud Solutions: Azure Web Apps, DevOps, CI/CD, Monitor
+• AI-Driven Automation & Process Optimization
+• Technical Leadership & Cross-functional Delivery
+
+KEY ACHIEVEMENTS:
+✓ Architected enterprise chatbot achieving 70-80% automation efficiency
+✓ Reduced manual reporting effort by 80% through AI automation
+✓ Led zero-downtime migration to Azure AI Foundry platform
+✓ 100% automation of enterprise license tracking using AI agents
+✓ Transformed service desk operations with AI-powered workflows
+
+Currently seeking challenging roles in AI/ML Technical Leadership, Solution Architecture, or Senior Engineering positions focused on enterprise AI innovation.

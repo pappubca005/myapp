@@ -1,0 +1,51 @@
+PRIMARY SKILLS (Mark as Expert):
+Azure OpenAI
+Azure AI Foundry
+Generative AI
+Conversational AI
+Chatbot Development
+Python
+Django
+Django REST Framework
+Natural Language Processing
+Machine Learning
+Azure AI Services
+Prompt Engineering
+LLM Integration
+Enterprise AI Solutions
+
+SECONDARY SKILLS (Mark as Proficient):
+REST API Development
+Azure Cloud Services
+Azure DevOps
+CI/CD Pipeline
+Microservices Architecture
+Solution Architecture
+Technical Leadership
+Power BI
+Azure SQL
+Docker
+Azure Logic Apps
+Microsoft Graph API
+Power Automate
+SSIS
+JavaScript
+C# .NET
+SQL Server
+PostgreSQL
+MySQL
+Azure Monitor
+Application Insights
+Azure Web Apps
+API Integration
+Business Intelligence
+
+EMERGING SKILLS (Mark as Intermediate):
+Kubernetes
+Terraform
+Jenkins
+scikit-learn
+Pandas
+React
+Node.js
+Azure Functions

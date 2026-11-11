@@ -1,0 +1,20 @@
+Job Title: Software Engineer – AI / Chatbot & Automation
+Company: Franklin Templeton Investments
+Duration: Apr 2018 – Present
+Location: Hyderabad, India
+
+DESCRIPTION:
+Architect and develop enterprise AI chatbot solutions using Python, Django, Azure AI, Azure OpenAI, and Azure AI Foundry to streamline IT service desk operations and knowledge discovery. Design conversational workflows for password resets, software installation, ServiceNow integration across Microsoft Teams and Web Chat. Build Django-based analytics dashboards for chatbot performance tracking and ROI analysis. Lead REST API integration with internal enterprise systems and collaborate with cross-functional teams.
+
+KEY ACHIEVEMENTS:
+• Achieved 70-80% automation efficiency in enterprise chatbot operations with 24/7 availability
+• Contributed to service desk transformation reducing staff from 16-17 to 3-4 through AI automation
+• Reduced manual Genesys reporting effort by 80% using AI-assisted automation and Power BI
+• Achieved 100% reduction in manual effort for enterprise license tracking using AI agents
+• Led zero-downtime migration from Azure QnA to Azure AI Foundry with no SLA breaches
+• Designed real-time email distribution system for mutual fund requests using Azure Logic Apps
+• Deploy and maintain Azure Web Apps with CI/CD pipelines, Azure Monitor, and Application Insights
+• Mentor junior developers and coordinate with business, security, DevOps teams
+
+TECHNOLOGIES:
+Python, Django, Azure AI, Azure OpenAI, Azure AI Foundry, Azure Language Studio, REST APIs, Azure Web Apps, Azure SQL, Azure DevOps, Power BI, Power Automate, Azure Logic Apps, Microsoft Graph API, Docker, CI/CD
